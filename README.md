@@ -1,4 +1,4 @@
-# MrPrism
+# Multi-rater Prism
 A pytorch implementation of the paper 'Multi-rater Prism: Learning self-calibrated medical image segmentation from multiple raters'
 
 <p align="center"><img src="https://github.com/WuJunde/MrPrism/blob/main/prism.jpg" alt="text" width="400"/></p>
